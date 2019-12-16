@@ -1,1 +1,1 @@
-# deployer-des-instances-compute-facilement
+# Déployer des instances Compute facilement
